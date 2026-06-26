@@ -82,6 +82,12 @@ The MATLAB/Simulink environment was used to inject a precise, stepped simulation
 * 
 **Purchase the Model:** [LMS Solution Product Page (SKU: 0032)](https://www.lmssolution.net.in/product-page/solar-pv-fed-buck-boost-converter-based-bldc-motor-for-air-cooler-application).
 
+[![Purchase Model](https://img.shields.io/badge/Purchase_Model-SKU_0032-238636?style=for-the-badge)](https://www.lmssolution.net.in/product-page/solar-pv-fed-buck-boost-converter-based-bldc-motor-for-air-cooler-application)
+
+
+[![Get the MATLAB Model](model-image.png)](https://www.lmssolution.net.in/product-page/solar-pv-fed-buck-boost-converter-based-bldc-motor-for-air-cooler-application)
+
+
 
 * 
 **Support:** For inquiries, contact `support@lmssolution.net` or `info@lmssolution.net.in`.
