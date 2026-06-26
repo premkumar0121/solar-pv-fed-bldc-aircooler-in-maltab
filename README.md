@@ -7,6 +7,8 @@ This repository presents a comprehensive design and performance analysis of a 10
 
 To overcome the challenge of non-linear PV output under fluctuating environmental conditions, the architecture integrates a DC-DC Buck-Boost converter regulated by a Perturb and Observe (P&O) Maximum Power Point Tracking (MPPT) algorithm. The BLDC motor itself is driven by a three-phase Voltage Source Inverter (VSI) utilizing electronic commutation derived from Hall-effect sensor feedback.
 
+[![Watch the simulation on YouTube](https://img.youtube.com/vi/shTebeWrGZ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=shTebeWrGZ8)
+
 ## ✨ Key Features
 
 * 
